@@ -1,8 +1,8 @@
 # Docker-Rally
 Deploying a RHEL-based Rally container for performance testing.  It is assumed that this will be hosted on a OSP Director host, but it's not a requirement.  This work is derived from the Rally Docker file and docs at the below sites: 
 
-http://rally.readthedocs.org/en/latest/install.html#rally-docker
-https://github.com/openstack/rally/blob/master/Dockerfile
+- http://rally.readthedocs.org/en/latest/install.html#rally-docker
+- https://github.com/openstack/rally/blob/master/Dockerfile
 
 ## Docker Setup
 ```
